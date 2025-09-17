@@ -28,7 +28,7 @@ const continueWritingActor = fromPromise(async ({ input }: { input: { text: stri
 	Existing text: "${input.text}" Continue writing from where it left off:`
 	
 	try {
-		if (apiKey) {
+		if (!apiKey) {
 			throw new Error('GROQ_API_KEY environment variable is not set, using mock ai responses!');
 		}
 
